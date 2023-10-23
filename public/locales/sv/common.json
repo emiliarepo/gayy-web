@@ -1,0 +1,56 @@
+
+{
+  "description": [
+    "GAYY är för alla Aalto-universitetets LGBTQIA+-orienterade och -nyfikna studenter. Vi arrangerar öppna evenemang med Pride-anda, det största av dem är den berömda Otaniemi GayDay.",
+    "Förutom fantastiska fester ordnar vi också utflykter och andra skojigheter. Gå med som medlem i Aalto-universitetets mest öppna, glada och stolta organisation!"
+  ],
+  "signup": {
+    "join": {
+      "title": "Bli medlem",
+      "text": "Skaffa ditt gratis medlemskap på Kide.app nu!"
+    },
+    "contact": {
+      "title": "Håll kontakten",
+      "telegram": "Telegram Info-kanal",
+      "instagram": "Följ oss även på Instagram!"
+    }
+  },
+  "board": {
+    "title": "GAYY Styrelse 2023",
+    "positions": [
+      {
+        "title": "Ordförande — Bartlomiej Rey",
+        "tg": "bartekrey"
+      },
+      {
+        "title": "Sekreterare — Liza Sidorova",
+        "tg": "lizardsi"
+      },
+      {
+        "title": "Kassör — Antti Lammi",
+        "tg": "deodor_antti"
+      },
+      {
+        "title": "Skåpmatarmästare — Jaakko Niemi",
+        "tg": "jaakkoni"
+      },
+      {
+        "title": "Kommunikation — Adrian Suvisaari",
+        "tg": "asu100100"
+      },
+      {
+        "title": "Förkämpe — Luísa Cardoso",
+        "tg": "luisacardooso"
+      },
+      {
+        "title": "Värdinna — Heidi Lemmetty",
+        "tg": "lempiheidi"
+      },
+      {
+        "title": "Värdinna — Hoang Bao Minh Le",
+        "tg": "umbalabo"
+      }
+    ]
+  },
+  "footer": "GAYY rf 🏳️‍🌈 2023"
+}
