@@ -1,0 +1,55 @@
+{
+  "description": [
+    "GAYY on tarkoitettu kaikille Aalto-yliopiston LGBTQIA+-suuntautuneille ja -uteliaisille opiskelijoille. Järjestämme kaikille avoimia tapahtumia ylpeyden hengessä, suurimpana niistä kuuluisa Otaniemi GayDay.",
+    "Upeiden juhlien lisäksi järjestämme myös retkiä ja muita pelleilyjä. Liity jäseneksi Aalto-yliopiston avoimimpaan, iloisimpaan ja ylpeimpään järjestöön!"
+  ],
+  "signup": {
+    "join": {
+      "title": "Liity joukkoomme",
+      "text": "Hanki ilmainen jäsenyys Kide.app -palvelusta nyt!"
+    },
+    "contact": {
+      "title": "Pidetään yhteyttä",
+      "telegram": "Telegram-info-kanava",
+      "instagram": "Seuraa meitä myös Instagramissa!"
+    }
+  },
+  "board": {
+    "title": "GAYY Hallitus 2023",
+    "positions": [
+      {
+        "title": "Puheenjohtaja — Bartlomiej Rey",
+        "tg": "bartekrey"
+      },
+      {
+        "title": "Sihteeri — Liza Sidorova",
+        "tg": "lizardsi"
+      },
+      {
+        "title": "Rahastonhoitaja — Antti Lammi",
+        "tg": "deodor_antti"
+      },
+      {
+        "title": "Kaappimestari — Jaakko Niemi",
+        "tg": "jaakkoni"
+      },
+      {
+        "title": "Viestintä — Adrian Suvisaari",
+        "tg": "asu100100"
+      },
+      {
+        "title": "Puolestapuhuja — Luísa Cardoso",
+        "tg": "luisacardooso"
+      },
+      {
+        "title": "Isäntä/emäntä — Heidi Lemmetty",
+        "tg": "lempiheidi"
+      },
+      {
+        "title": "Isäntä/emäntä — Hoang Bao Minh Le",
+        "tg": "umbalabo"
+      }
+    ]
+  },
+  "footer": "GAYY ry 🏳️‍🌈 2023"
+}

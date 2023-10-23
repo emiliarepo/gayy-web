@@ -1,0 +1,56 @@
+
+{
+  "description": [
+    "GAYY is for all the Aalto University LGBTQIA+-orientated and -curious students. We arrange open-for-all events with the Pride spirit, the biggest one being the famous Otaniemi GayDay.", 
+    "In addition to fabulous parties, we also arrange excursions and other shenanigans. Join as a member to the most open, joyful and proud organization of Aalto University!"
+  ],
+  "signup": {
+    "join": {
+      "title": "Join us",
+      "text": "Get your free membership on Kide.app now!"
+    },
+    "contact": {
+      "title": "Let's stay in touch",
+      "telegram": "Telegram Info Channel",
+      "instagram": "Follow us on Instagram too!"
+    }
+  },
+  "board": {
+    "title": "GAYY Board 2023",
+    "positions": [
+      {
+        "title": "Chair — Bartlomiej Rey",
+        "tg": "bartekrey"
+      },
+      {
+        "title": "Secretary — Liza Sidorova",
+        "tg": "lizardsi"
+      },
+      {
+        "title": "Treasurer — Antti Lammi",
+        "tg": "deodor_antti"
+      },
+      {
+        "title": "Master of Kaappi — Jaakko Niemi",
+        "tg": "jaakkoni"
+      },
+      {
+        "title": "Communications — Adrian Suvisaari",
+        "tg": "asu100100"
+      },
+      {
+        "title": "Advocate — Luísa Cardoso",
+        "tg": "luisacardooso"
+      },
+      {
+        "title": "Hostess — Heidi Lemmetty",
+        "tg": "lempiheidi"
+      },
+      {
+        "title": "Hostess — Hoang Bao Minh Le",
+        "tg": "umbalabo"
+      }
+    ]
+  },
+  "footer": "GAYY ry 🏳️‍🌈 2023"
+}
